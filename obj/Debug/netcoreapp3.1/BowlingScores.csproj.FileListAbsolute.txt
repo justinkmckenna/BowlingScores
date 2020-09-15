@@ -1,0 +1,13 @@
+C:\dev\BowlingScores\BowlingScores\bin\Debug\netcoreapp3.1\BowlingScores.exe
+C:\dev\BowlingScores\BowlingScores\bin\Debug\netcoreapp3.1\BowlingScores.deps.json
+C:\dev\BowlingScores\BowlingScores\bin\Debug\netcoreapp3.1\BowlingScores.runtimeconfig.json
+C:\dev\BowlingScores\BowlingScores\bin\Debug\netcoreapp3.1\BowlingScores.runtimeconfig.dev.json
+C:\dev\BowlingScores\BowlingScores\bin\Debug\netcoreapp3.1\BowlingScores.dll
+C:\dev\BowlingScores\BowlingScores\bin\Debug\netcoreapp3.1\BowlingScores.pdb
+C:\dev\BowlingScores\BowlingScores\obj\Debug\netcoreapp3.1\BowlingScores.csprojAssemblyReference.cache
+C:\dev\BowlingScores\BowlingScores\obj\Debug\netcoreapp3.1\BowlingScores.AssemblyInfoInputs.cache
+C:\dev\BowlingScores\BowlingScores\obj\Debug\netcoreapp3.1\BowlingScores.AssemblyInfo.cs
+C:\dev\BowlingScores\BowlingScores\obj\Debug\netcoreapp3.1\BowlingScores.csproj.CoreCompileInputs.cache
+C:\dev\BowlingScores\BowlingScores\obj\Debug\netcoreapp3.1\BowlingScores.dll
+C:\dev\BowlingScores\BowlingScores\obj\Debug\netcoreapp3.1\BowlingScores.pdb
+C:\dev\BowlingScores\BowlingScores\obj\Debug\netcoreapp3.1\BowlingScores.genruntimeconfig.cache
